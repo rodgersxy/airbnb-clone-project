@@ -128,9 +128,14 @@ Each role contributes uniquely to ensure a high-quality, user-focused product is
 
 # FINAL PROJECT:  
 
-     <img width="407" alt="airbnb-1" src="https://github.com/user-attachments/assets/eaf22747-a2b2-4536-8b8d-56a233afb574">
-     <img width="410" alt="airbnb-2" src="https://github.com/user-attachments/assets/dcda2aea-a5ef-4b80-b54e-371c5fbd9c94">
-     <img width="409" alt="airbnb-3" src="https://github.com/user-attachments/assets/49feca92-269d-400d-971a-09a7bb7eb201">
+<img width="407" alt="airbnb-1" src="https://github.com/user-attachments/assets/d2030440-55e3-4ad7-b1ae-08f6a319000a">
+<img width="410" alt="airbnb-2" src="https://github.com/user-attachments/assets/8b13cb71-2873-417a-9126-03de1d2feaa7">
+<img width="409" alt="airbnb-3" src="https://github.com/user-attachments/assets/9dfc388a-1d58-479f-af51-a42ba021f566">
+
+
+
+
+
 
 
 
