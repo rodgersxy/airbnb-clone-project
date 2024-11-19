@@ -124,4 +124,12 @@ Each role contributes uniquely to ensure a high-quality, user-focused product is
    - Small pop-up components to display messages like booking confirmations or error alerts.   
 
 8. **Button**    
-   - A reusable button component for actions like "Book Now," "Sign Up," or "Contact Host."  
+   - A reusable button component for actions like "Book Now," "Sign Up," or "Contact Host."
+
+
+     <img width="407" alt="airbnb-1" src="https://github.com/user-attachments/assets/eaf22747-a2b2-4536-8b8d-56a233afb574">
+     <img width="410" alt="airbnb-2" src="https://github.com/user-attachments/assets/dcda2aea-a5ef-4b80-b54e-371c5fbd9c94">
+     <img width="409" alt="airbnb-3" src="https://github.com/user-attachments/assets/49feca92-269d-400d-971a-09a7bb7eb201">
+
+
+
