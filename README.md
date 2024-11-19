@@ -92,3 +92,36 @@ Identifying the design properties of a mockup is essential because:
 
 ### Contribution to Project Success  
 Each role contributes uniquely to ensure a high-quality, user-focused product is delivered efficiently, meeting both business and user needs.   
+
+
+## UI Component Patterns   
+
+### Planned Components  
+
+1. **Navbar**   
+   - A responsive navigation bar that includes links to key pages (e.g., Home, Listings, Login/Signup).  
+   - Includes a search bar for quick property searches.   
+   - Dropdown menus for user profile and settings.  
+
+2. **Property Card**  
+   - A reusable card component to display property details in the listings view.   
+   - Includes an image, title, price, location, and a quick preview of amenities.  
+
+3. **Footer**   
+   - A site-wide footer with links to company information, policies, and social media.  
+   - Includes a newsletter subscription form.  
+
+4. **Search Bar**  
+   - A dynamic search bar allowing users to filter properties by location, dates, and other criteria.   
+
+5. **Image Carousel**  
+   - A component to showcase property images in the detailed view with swipe and slide functionality.  
+
+6. **Booking Form**    
+   - A form component for users to input details during the booking process.  
+
+7. **Alert/Toast Notifications**   
+   - Small pop-up components to display messages like booking confirmations or error alerts.   
+
+8. **Button**    
+   - A reusable button component for actions like "Book Now," "Sign Up," or "Contact Host."  
