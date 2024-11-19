@@ -75,3 +75,20 @@ Identifying the design properties of a mockup is essential because:
 2. **Clarity**: Clearly defined properties guide developers and designers, reducing misinterpretation and maintaining visual harmony.  
 3. **Efficiency**: Saves time during development by providing a reference for styling decisions.   
 4. **Scalability**: Establishes a design system that can be reused and scaled for future features or updates.  
+
+
+## Project Roles and Responsibilities   
+
+### Roles and Key Responsibilities   
+
+- **Project Manager**: Oversees project timelines, resources, and deliverables to ensure goals are met on time and within scope.   
+- **Frontend Developers**: Build the user interface using React, TailwindCSS, and TypeScript; ensure responsiveness and seamless user experience.  
+- **Backend Developers**: Develop and maintain the server, database, and APIs; ensure secure and efficient data handling.   
+- **Designers**: Create wireframes, mockups, and visual assets; ensure the design aligns with branding and user needs.  
+- **QA/Testers**: Test for bugs and usability issues; ensure the application functions as intended across devices.  
+- **DevOps Engineers**: Manage deployment pipelines, server infrastructure, and CI/CD processes; ensure system reliability.    
+- **Product Owner**: Defines project vision, prioritizes tasks, and provides clear requirements to the team.  
+- **Scrum Master**: Facilitates Agile processes, resolves team blockers, and ensures the team adheres to Scrum practices.   
+
+### Contribution to Project Success  
+Each role contributes uniquely to ensure a high-quality, user-focused product is delivered efficiently, meeting both business and user needs.   
